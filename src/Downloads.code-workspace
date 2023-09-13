@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "E:/Downloads"
+		},
+		{
+			"name": "123",
+			"path": "../../123"
+		},
+		{
+			"name": "clock",
+			"path": ".."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+	"settings": {
+		"commentTranslate.source": "Google",
+		"files.associations": {
+			"*.vlw": "cpp",
+			"*.tcc": "cpp",
+			"limits": "cpp",
+			"random": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"lvgl.h": "c",
+			"ui.h": "c",
+			"ui_helpers.h": "c"
+		}
+	}
+}
