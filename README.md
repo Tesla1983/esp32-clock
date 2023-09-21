@@ -1,4 +1,4 @@
-# esp32-clock
+# Indoor temperature, humidity and high-precision clock display based on esp32.
 #基于esp32的室内温湿度和高精度时钟显示，组件使用了DS3231，AHT20，TFT1.8寸显示屏。
 
 #使用WiFi进行NTP服务器精确对时，每次联网WiFi会自动校正时间。
