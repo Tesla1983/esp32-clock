@@ -3,12 +3,12 @@
 #include <TFT_eSPI.h>
 #include <NTPClient.h>
 #include <WiFi.h>
-#include <simka20.h>
 #include <simkai22.h>
 #include <HTTPClient.h>
 #include <Adafruit_AHTX0.h>
 #define WIDTH  160
 #define HEIGHT 128
+
 
 
 
