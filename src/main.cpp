@@ -19,8 +19,8 @@ TFT_eSPI tft = TFT_eSPI();
 TFT_eSprite spr = TFT_eSprite(&tft); 
 bool timeWritten = false;
 const char* daysOfTheWeek[7] = {"周日", "周一", "周二", "周三", "周四", "周五", "周六"};
-const char *ssid = "ChinaNet-fttZ";
-const char *password = "zt4iizjr";
+const char *ssid = "you ssid";
+const char *password = "you password";
 const char* ntpServer = "ntp1.aliyun.com";
 
 
